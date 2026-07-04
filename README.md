@@ -1,2 +1,2 @@
-# rentlx-app
-RentLX peer-to-peer rental marketplace
+# Thameem
+Building Something Unique
